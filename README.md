@@ -10,4 +10,4 @@ Just an GitHub profile 🥱
 
 ## Socials
 
-Sorry I am lazy, gonna add it tomorrow 😅
+Instagram - https://instagram.com/kb_swastik
