@@ -6,8 +6,8 @@ Just an GitHub profile 🥱
 - I am in high school 🏫
 - I have intrest in computers, astronomy and automobiles ✨
 - Loves to workout 💪🏻
-- Very susy dude 🥲
+- Brainrotted 🥲
 
 ## Socials
 
-Instagram - (soon)
+Instagram - (kb_swastik)[https://instagram.com/kb_swastik]
