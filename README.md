@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swastik-sarkar&label=Profile%20views&color=0e75b6&style=flat" alt="swastik-sarkar" /> </p>
 
 
-- 🔭 I’m currently working on [Guides](https://github.com/Swastik-Sarkar/guides)
+- 🔭 I’m currently working on JEE Mains Prep
 
-- 🌱 I’m currently learning **Neural Networks, leet code, Databases**
+- 🌱 I’m currently learning **Rust, GO & Metasploit**
 
 - ⚡ Fun fact **I love automobiles**
 
